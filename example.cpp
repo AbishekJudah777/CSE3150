@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello World" << std::endl;
+	std::cout << "This is an example file" << std::endl;
 	return 0; 
 }
 
